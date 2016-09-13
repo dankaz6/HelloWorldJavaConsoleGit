@@ -1,3 +1,4 @@
+// a simple class stored in a separate file 
 
 public class SimpleMath {
 
